@@ -41,6 +41,9 @@
 	font-family: Arial, Helvetica, sans-serif;
 	letter-spacing: 1px;
 }
+#main h1{
+	color: rgba(255,255,255,1);
+}
 
 #left{
 	background-color: rgb(57,196,142);
@@ -54,8 +57,8 @@
 #right{
 	background-color: rgb(54,97,162);
 	color: rgba(255,255,255,0.9);
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	letter-spacing: 1px;
 }
 
